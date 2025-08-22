@@ -1,2 +1,4 @@
 # Exercise
-just some VERY SIMPLE exercise
+just some VERY SIMPLE exercises
+## MARKDOWN
+lol
